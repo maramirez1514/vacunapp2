@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VacunaApp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="revocar">Revocar</string>
+    <string name="txtNombre">txtNombre</string>
+    <string name="txtEmail">txtEmail</string>
+    <string name="siguiente">siguiente</string>
+
+</resources>
